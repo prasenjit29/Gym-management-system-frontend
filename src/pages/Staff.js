@@ -108,14 +108,14 @@ const Staff = () => {
       },
       {
         id: 5,
-        name: 'Tom Anderson',
-        email: 'tom.anderson@gym.com',
+        name: 'Pratik',
+        email: 'pratik@gym.com',
         phone: '+1 (555) 555-6666',
         role: 'maintenance',
         department: 'facilities',
         status: 'inactive',
         hireDate: '2023-03-12',
-        salary: 40000,
+        salary: 4000,
         avatar: '👨‍💼',
         specializations: ['Equipment Maintenance'],
         isActive: false
