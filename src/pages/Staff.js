@@ -52,7 +52,7 @@ const Staff = () => {
     const mockStaff = [
       {
         id: 1,
-        name: 'Sarah Johnson',
+        name: 'Sanghdeep Gedam',
         email: 'sarah.johnson@gym.com',
         phone: '+1 (555) 111-2222',
         role: 'trainer',
